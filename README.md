@@ -1,4 +1,4 @@
-![Capa do projeto com logo da Estácio](./.github/logo_m4.svg)
+![Capa do projeto com logo da Estácio](./logo_m4.svg)
 
 <div align="center">
 
